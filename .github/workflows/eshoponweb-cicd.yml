@@ -9,7 +9,7 @@ env:
   LOCATION: Australia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 7ace74f7-2c9f-4295-b875-2e735a14e050
-  WEBAPP-NAME: devops-webapp-eastus-954032277
+  WEBAPP-NAME: devops-webapp-eastus-954032278
 
 
 jobs:
